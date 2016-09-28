@@ -1,0 +1,14 @@
+https://api.foursquare.com/v2/simulate/venues/timeseries?venueId=4e0deab3922e6f94b1410af3&startAt=1284286794&fields=totalCheckins,sharing,genders&oauth_token=4T3JCORVUC2MHIWKQGDUVKHPK3XAIKFJSH1AZS4OBCQBH3QX&v=20160913
+
+https://api.foursquare.com/v2/simulate/venues/timeseries?venueId=4e0deab3922e6f94b1410af3&startAt=1284286794&fields=totalCheckins,sharing,genders&oauth_token=4T3JCORVUC2MHIWKQGDUVKHPK3XAIKFJSH1AZS4OBCQBH3QX&v=20160913
+
+https://api.foursquare.com/v2/simulate/venues/timeseries?venueId=4ee8e058f790a9d738d62d70&startAt=1284286794&fields=totalCheckins,sharing,genders&client_id=YCS2SSM3H0KUN54RHGCZBVQ1QOFFTKROILFQLL1XW5QHRKNN&client_secret=RDVNHI0B53ZZBGD2F1ZHVCG4LUOQIQEUNLRN31G5LXYX3DWP&v=20160913
+
+
+https://api.foursquare.com/v2/venues/venueId=4ee8e058f790a9d738d62d70&client_id=YCS2SSM3H0KUN54RHGCZBVQ1QOFFTKROILFQLL1XW5QHRKNN&client_secret=
+
+https://api.foursquare.com/v2/venues/timeseries?venueId=4e0deab3922e6f94b1410af3&startAt=1284286794&fields=totalCheckins&oauth_token=4T3JCORVUC2MHIWKQGDUVKHPK3XAIKFJSH1AZS4OBCQBH3QX&v=20160916
+https://api.foursquare.com/v2/venues/timeseries?venueId=4ee8e058f790a9d738d62d70&startAt=1284286794&fields=totalCheckins&client_id=YCS2SSM3H0KUN54RHGCZBVQ1QOFFTKROILFQLL1XW5QHRKNN&client_secret=RDVNHI0B53ZZBGD2F1ZHVCG4LUOQIQEUNLRN31G5LXYX3DWP&v=20160916
+
+
+https://api.foursquare.com/v2/venues/venueId=4ee8e058f790a9d738d62d70&client_id=YCS2SSM3H0KUN54RHGCZBVQ1QOFFTKROILFQLL1XW5QHRKNN&client_secret=RDVNHI0B53ZZBGD2F1ZHVCG4LUOQIQEUNLRN31G5LXYX3DWP&v=20160916
